@@ -3,15 +3,15 @@
   "version": "2.0.0",
   "description": "Oleksadr's Personal Portfolio",
   "main": "index.js",
-  "author": "Oleksandr Hordenko",
+  "author": "Oleksandr Filipov",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Winner960111/Winner960111.github.io/issues"
   },
   "keywords": [
     "Oleksandr",
-    "Oleksandr Hordenko",
-    "Oleksandr Hordenko Portfolio",
+    "Oleksandr Filipov",
+    "Oleksandr Filipov Portfolio",
     "JayantGoel001",
     "Oleksadr (Winner960111)'s Personal Portfolio"
   ],

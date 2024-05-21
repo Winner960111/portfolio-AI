@@ -6,10 +6,10 @@
   "commit": false,
   "contributors": [
     {
-      "login": "Superdev0909",
-      "name": "Oleksadr Hordenko",
+      "login": "Winner960111",
+      "name": "Oleksadr Filipov",
       "avatar_url": "https://avatars.githubusercontent.com/u/54479676?v=4",
-      "profile": "http://Superdev0909.github.io",
+      "profile": "http://Winner960111.github.io",
       "contributions": [
         "code",
         "ideas",
@@ -53,8 +53,8 @@
     }
   ],
   "contributorsPerLine": 7,
-  "projectName": "Superdev0909.github.io",
-  "projectOwner": "Superdev0909",
+  "projectName": "Winner960111.github.io",
+  "projectOwner": "Winner960111",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
